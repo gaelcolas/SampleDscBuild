@@ -1,2 +1,5 @@
-BuildOutput/
-modules/
+BuildOutput/*
+modules/*
+
+!README.md
+!*/
